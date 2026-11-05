@@ -160,7 +160,7 @@ output "lb_ip" {
 }
 ```
 Результат установки ВМ и балансировщика:
-![Результат установки ВМ и балансировщика](https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/terraform apply.png)
+![Результат установки ВМ и балансировщика](https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/terraform-apply.png)
 
 ---
 ### Скриншоты по результатам задания
