@@ -162,14 +162,14 @@ output "lb_ip" {
 ---
 ### Скриншоты по результатам задания
 
-Скриншот-1 к заданию 1 (Статус балансировщика Active):
+Скриншот-1:
 
-https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-nlb.png
+![Статус балансировщика Active](https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-nlb.png)
 
-Скриншот-2 к заданию 1 (Обе ВМ в целевой группе в статусе Healthy):
+Скриншот-2:
 
-https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-tg.png
+![Обе ВМ в целевой группе в статусе Healthy](https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-tg.png)
 
-Скриншот-3 к заданию 1 (Дефолтная страница Nginx):
+Скриншот-3:
 
-https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-balancer.png
+![Дефолтная страница Nginx](https://raw.githubusercontent.com/evgeniy-salmin/fault-tolerance-hw/main/nginx-balancer.png)
